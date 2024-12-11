@@ -5,4 +5,4 @@ NIM: 1242002046
 Jurusan: Sistem Informasi
 Kelas: SIF12
 Minat: Sistem Operasi dan Memancing Ikan
-Saya sedang belajar Git dan GitHub
+Saya sedang belajar Git dan GitHub"# Praktikum_PTI_8" 
